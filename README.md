@@ -2,19 +2,19 @@
 
 # Приложение для спортивного зала 
 
+### Features
+- Регистрация / авторизация (jwt) профиля / редактирование полей профиля
+- Пресет упражнений
+- Создание тренировки (собираем из пресета упражнений / либо создаем свои)
+- Сохранение тренировки
+- Старт тренировки с таймером, сохранение результатов тренировки
+- Дашборд со статистикой по проведенным тренировкам (частота; прогресс; объем тренинга)
 
-### Frontend
+### Frontend && Backend
+- NextJS
 - React
 - Typescript
 - Zustand (storage)
 - Tailwind
-
-### Mobile? (Android / IOS) 
-- Kotlin (kotlin courutines)
-
-### Backend
-- Java
-- SpringBoot framework
-- DB: PosgreSQL/MariaDB
-
+- Prisma (schema / migrations)
 
