@@ -6,7 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "linter": "next lint"
+    "linter": "next lint",
+    "unit test": "",
+    "e2e test": "",
+    "build:storybook": "",
+    "i18n:checking": ""
   },
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
